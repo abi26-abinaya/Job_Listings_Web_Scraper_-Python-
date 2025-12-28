@@ -41,11 +41,18 @@ The scraper extracts structured job data, cleans it, and stores it in CSV format
 ## Folder Structure
 Job-Listings-Web-Scraper/
 │
+
 ├── scraper.py
+
 ├── job_listings.csv
+
 ├── README.md
+
 ├── screenshots/
+
 │   ├── browser_open.png
+
 │   ├── script_output.png
+
 │   └── csv_output.png
 
